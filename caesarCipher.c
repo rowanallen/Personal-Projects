@@ -147,7 +147,7 @@ int decrypt(int shift, int size, char string1[]){
     return 0;
 }
 
-/* MAIN METHOD ANN INITIALIZATION */
+/* MAIN METHOD AND INITIALIZATION */
     
 int main()
 {
