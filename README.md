@@ -1,4 +1,3 @@
-# hello-world
-My first repository!
+# Personal Coding Projects
 
-This repo will contain small personal coding projects.
+This repository will contain odds and ends.
